@@ -1,0 +1,16 @@
+service: "service:svc"
+description: |
+    ## Description For My Bento 🍱
+
+    Use **any markdown syntax** here!
+
+    > BentoML is awesome!
+labels:
+  owner: bentoml-team
+  stage: demo
+include:
+- "service.py"
+python:
+  lock_packages: false
+  packages:
+    - tensorflow
