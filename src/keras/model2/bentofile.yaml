@@ -2,12 +2,12 @@ service: "service:svc"
 description: |
     ## Description For My Bento 🍱
 
-    Use **any markdown syntax** here!
+    Use Model 2
 
     > BentoML is awesome!
 labels:
-  owner: bentoml-team-model2
-  stage: demo-model2
+  owner: bentoml-team
+  stage: demo
 include:
 - "service.py"
 python:

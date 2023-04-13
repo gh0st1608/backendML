@@ -172,10 +172,12 @@ def create_model_inputs():
             inputs[feature_name] = layers.Input(
                 name=feature_name, shape=(), dtype=tf.float32
             )
+            print(feature_name)
         else:
             inputs[feature_name] = layers.Input(
                 name=feature_name, shape=(), dtype=tf.string
             )
+            print(feature_name)
     return inputs
 
 

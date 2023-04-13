@@ -1,0 +1,36 @@
+[
+  {
+    "age": 25,
+    "workclass": "Private",
+    "fnlwgt": 226802,
+    "education": "11th",
+    "education_num": 7,
+    "marital_status": "Never-married",
+    "occupation": "Machine-op-inspct",
+    "relationship": "Own-child",
+    "race": "Black",
+    "gender": "Male",
+    "capital_gain": 0,
+    "capital_loss": 0,
+    "hours_per_week": 40,
+    "native_country": "United-States",
+    "income_bracket": "<=50K"
+  },
+  {
+    "age": 28,
+    "workclass": "Local-gov",
+    "fnlwgt": 336951,
+    "education": "Assoc-acdm",
+    "education_num": 12,
+    "marital_status": "Married-civ-spouse",
+    "occupation": "Protective-serv",
+    "relationship": "Husband",
+    "race": "White",
+    "gender": "Male",
+    "capital_gain": 0,
+    "capital_loss": 0,
+    "hours_per_week": 40,
+    "native_country": "United-States",
+    "income_bracket": ">50K"
+  }
+]
